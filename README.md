@@ -1,4 +1,4 @@
-# Kafka Unit Testing using Spring Kafka and `MockProducer`/`MockConsumer` classes
+# Kafka Unit Testing using Spring Kafka and `MockProducer`/`MockConsumer` Classes
 
 Inside the Kafka library, there are two mock implementation of the `Consumer<K, V>` and
 `Producer<K, V>` interfaces. These classes are `MockConsumer` and `MockProducer`. These classes are
